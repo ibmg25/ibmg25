@@ -7,8 +7,8 @@
 ### Web
 - [API-TDDLab](https://github.com/ibmg25/api-lizard-2): API with Flask.
 - [API-Tincho-Tavels](https://github.com/ibmg25/Tincho-API): API with express.
-- [Tincho Travels](https://github.com/E-Doggo/Tincho-Travels): Tincho-Travels repository.
-  - [Deploy](https://tincho-travels.web.app/): Tincho-Travels deployed.
+- [Tincho Travels](https://github.com/E-Doggo/Tincho-Travels): Tincho Travels Web repository.
+  - [Deploy](https://tincho-travels.web.app/): Tincho Travels Web deployed.
 
 ### Competitive Programming
 - [Codes](https://github.com/ibmg25/cp_codes): Competitive Programming solutions.
