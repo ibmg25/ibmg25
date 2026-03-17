@@ -1,5 +1,5 @@
 ## About me
-- 🎓 Software Engineering and Full-Stack Developer
+- 🎓 Software Engineer and Full-Stack Developer
 - 💻 Retired Competitive Programmer
 
 ## My Projects
