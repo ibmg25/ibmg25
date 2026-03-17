@@ -14,7 +14,7 @@
 - [Codes](https://github.com/ibmg25/cp_codes): Competitive Programming solutions.
 
 ## Contact
-- 📧 Email: [ignacioborismg@gmail.com](mailto:ignacioborismg@gmail.com)
+- 📧 Email: [ignacioboris11@gmail.com](mailto:ignacioborismg@gmail.com)
 
 <!--
 **ibmg25/ibmg25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
